@@ -1,5 +1,5 @@
 # Tout ce qu'on a fait tout au long de notre exercice est :
-Partie 1 — Initialisation du projet
+## Partie 1 — Initialisation du projet
 1. Créer un nouveau dépôt GitHub nommé : workflow-pro-git.
 o Public
 o Sans README (on le fera localement)
