@@ -1,0 +1,1 @@
+Le bug etait a cause d'une petite erreur de syntaxe a la ligne 455. Maintenant tout va bien.
